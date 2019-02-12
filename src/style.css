@@ -1,1 +1,36 @@
-/* Acá va tu código */
+h1{
+    color:white;
+    background-color:midnightblue;
+    text-align:center;
+    font-family:lucida console;
+  }
+  body {
+    color: white;
+    background-color:midnightblue;
+    text-align:center;
+    font-family:verdana;
+  }
+  
+  button {
+      background-color: royalblue;
+    border: 10px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: trebuchet ms;
+    font-weight:bold;
+  }
+  
+  input[type="number"]{
+    width:30px;
+    margin-bottom:10px;
+  }
+  
+  #home {
+    display: block;
+  }
+  
+  #encrypt1, #decode1 {
+    display: none;
+  }
