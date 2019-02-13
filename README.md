@@ -13,11 +13,11 @@ La elaboración de éste producto se llevó a cabo una vez que decidí que el cr
 El diseño del producto está confeccionado para apoyar el rápido entendimiento del usuario, es decir, su estructura es simple y cada paso para cifrar o descifrar está mencionada en la pantalla. Al momento de entrar a la aplicación el usuario puede elegir entre cifrar o descifrar una contraseña o mensaje presionando en los botones respectivos. Además,el usuario puede volver a la pantalla de Inicio las veces que lo considere necesario.
 
 ## Prototipado
-![prototipado](C:\Users\clas_\Desktop\SCL008-Cipher\proto)
+![prototipado](C:\Users\clas_\Desktop\SCL008-Cipher\proto\)
 
 ## Vista Previa
 
-![vista-previa](C:\Users\clas_\Desktop\SCL008-Cipher\vista-p)
+![vista-previa](C:\Users\clas_\Desktop\SCL008-Cipher\vista-p\)
 
 ## Link del producto
 
